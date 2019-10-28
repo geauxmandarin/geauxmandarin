@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GeauxMandarin",
-    "currentPage": "index.html",
+    "currentPage": "ContactUs.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2315,7 +2315,7 @@
               "margin-bottom": "2rem"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#ff8619"
             },
             "a:not([href]):not([tabindex])": {
               "color": "#fff",
@@ -2326,6 +2326,9 @@
             },
             "textarea.form-control": {
               "min-height": "188px"
+            },
+            "H2": {
+              "color": "#35803d"
             }
           },
           "_name": "form1",
