@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Righteous:400&display=swap);
 
 
 
@@ -8,7 +8,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Righteous', display;
   font-size: 4.25rem;
   font-display: swap;
 }
@@ -16,7 +16,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Righteous', display;
   font-size: 3rem;
   font-display: swap;
 }
@@ -24,7 +24,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Righteous', display;
   font-size: 1rem;
   font-display: swap;
 }
@@ -32,7 +32,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Righteous', display;
   font-size: 1.5rem;
   font-display: swap;
 }
@@ -40,7 +40,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Righteous', display;
   font-size: 1rem;
   font-display: swap;
 }
@@ -546,7 +546,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Righteous', display;
   font-size: 1rem;
   font-display: swap;
 }
@@ -1216,9 +1216,11 @@ section.lazy-placeholder:after {
 }
 .cid-rG4j6LW3Um .card-title {
   color: #35803d;
+  text-align: center;
 }
 .cid-rG4j6LW3Um .mbr-text {
   color: #ff8619;
+  text-align: left;
 }
 .cid-rG4io8fTkE {
   padding-top: 90px;
@@ -1303,9 +1305,11 @@ section.lazy-placeholder:after {
 }
 .cid-rG4io8fTkE .mbr-text {
   color: #ff8619;
+  text-align: left;
 }
 .cid-rG4io8fTkE .card-title {
   color: #35803d;
+  text-align: center;
 }
 .cid-rG4io8fTkE .mbr-section-title {
   color: #35803d;
@@ -1414,9 +1418,11 @@ section.lazy-placeholder:after {
 }
 .cid-rG4pT4s8WS .mbr-timeline-text {
   color: #ff8619;
+  text-align: left;
 }
 .cid-rG4pT4s8WS .mbr-timeline-title {
   color: #35803d;
+  text-align: left;
 }
 .cid-rG4r6Dd62c {
   padding-top: 60px;
@@ -1425,6 +1431,7 @@ section.lazy-placeholder:after {
 }
 .cid-rG4r6Dd62c .mbr-section-subtitle {
   color: #ff8619;
+  text-align: left;
 }
 .cid-rG4r6Dd62c H2 {
   color: #35803d;
@@ -2277,6 +2284,9 @@ section.lazy-placeholder:after {
 }
 .cid-rGaJLN3MKh H2 {
   color: #35803d;
+}
+.cid-rGaJLN3MKh .mbr-section-subtitle DIV {
+  text-align: left;
 }
 .cid-rGaJLNkCGe .navbar {
   background: #ffffff;
